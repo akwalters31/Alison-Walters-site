@@ -1,0 +1,27 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Projects
+
+  I have worked on a variety of projects in both college and for my internship. 
+service:
+  - content: >
+      #### Environmental Analytics 
+      
+      Measured parts of campus and analyzed whether or not the heat island effect 
+      was present.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### JIRA Board Management
+
+      Implemented bulk import of tasks for Agile team's JIRA board, as well as 
+      made five Visio process flows to ensure the team followed the same steps.
+    image: images/service/web.svg
+  - content: >
+      #### Hack the Bay Hackathon
+
+      Analyzed biodiversity, riparian buffers, and temperatures to look for 
+      trends in the water quality of the Chesapeake Bay. 
+    image: images/service/creative.svg
+

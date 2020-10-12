@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your company?
+
+  My goal is to provide excellent data science skills through my passions and dedication to learning.
+
+image: images/astronaut.JPG
+
+skill:
+  - title: R
+    percent: 75
+  - title: ArcGIS
+    percent: 60
+  - title: Written/Verbal Communication
+    percent: 80
+  - title: Math/Statistics
+    percent: 75

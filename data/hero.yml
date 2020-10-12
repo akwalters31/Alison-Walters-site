@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Hello, I am Alison
+content: >
+  # I am a VT student looking to gain experience in data science.
+
+  Enjoy talking about the environment, coding, and working with a diverse, and flexible
+  group of people.
+buttonName: Contact me
+buttonURL: contact
+image: images/linkedinpic.jpg
+videoThumb: images/tree.png
+videoURL: https://www.youtube.com/watch?v=9HVvr4f0idc

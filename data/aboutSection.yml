@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Virginia Tech student majoring in Environmental Informatics in Spring of 2021. I love 
+  learning; anything from coding to identifying trees!
+content: >
+  ### I love data analytics and the environment. 
+
+  My major allows me to gain a wide variety of skills from business information technology, 
+  data analytics, to dendrology (the study of trees). When I am not in school I am either 
+  working for my internship at Steampunk, reading a memoir, or watercoloring. I am looking 
+  for a full time position starting Summer 2021 that will allow me to garner skills 
+  related to data science and analytics through programming in R.
+button1Name: Let's Chat
+button2Name: Request Resume
+button1Target: contact
+button2Target: contact
+image: images/me.JPG

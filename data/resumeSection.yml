@@ -1,0 +1,44 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+  
+  I have worked at various jobs for Virginia Tech throughout my collegiate career and am 
+  currently interning for a government contracting firm. 
+
+
+  I am looking to gain more practical experience and expand my skillset with 
+  other programming languages and softwares. 
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Bachelor of Science; Environmental Informatics
+
+      Virginia Tech; May 2021 GPA: 3.29/4.0
+
+experience:
+  - content: >
+      #### Technology Analysis Intern, Steampunk 
+
+      Interning with an Agile development team and creating a data governance/stewardship 
+      program for the USDA as well as modernization to Salesforce. 
+  - content: >
+      #### Volunteer Coordinator, Virginia Tech
+
+      Oversaw scheduling and contact information for 150+ volunteers to lead STEM activities
+      for 5th graders in a safe and educational environment.
+  - content: >
+      #### Educational Networks Assistant, Virginia Tech 
+
+      Planned and organized a summit for 150+ professionals in regards to improving STEM education 
+      for primary and secondary students.
+  - content: >
+      #### Data Analyst, Virginia Tech 
+
+      Sorted 2,000 + sheets of data and systemitcally and efficently entered data into Excel 
+      to be clear and concise.
